@@ -1,6 +1,6 @@
 # Windows update troubleshooter
 
-[![windows update troubleshooter](red2.png)](https://computersolve.com/windows-update-troubleshooter/)
+[![windows update troubleshooter](red2.png)](https://icncomputer.com/windows-update-troubleshooter/)
 
 
 
